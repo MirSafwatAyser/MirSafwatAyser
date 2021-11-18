@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MirSafwatAyser
+- 👋 Hi, I’m Mir Safwat Ayser @MirSafwatAyser
 - I love to code and build cool projects.
-- I currently study Computer Science at the University of Toronto. I have taken multiply computer science, mathematics, statistics, business and environmental science courses at my University till now.
-- Feel free to reach out to me on Instagram: @mirsafwatayser
+- I currently study Computer Science at the University of Toronto. I have taken multiple computer science, mathematics, statistics, business, and environmental science courses at my University till now.
+- Feel free to reach out to me on Instagram: @mirsafwatayser or email:mirsafwat.ayser@mail.utoronto.ca
